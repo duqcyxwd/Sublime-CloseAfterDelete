@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "File: Delete and Close (CloseAfterDelete)",
+        "command": "delete_after_close"
+    }
+]
